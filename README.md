@@ -3,4 +3,4 @@
 
 ### 공부 일지
 
-- 21/01/22: OpenGL, X11, XPM, 엔디언
+- 21/01/22: [OpenGL, X11, XPM, 엔디언](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-22.md)
