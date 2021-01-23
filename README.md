@@ -4,3 +4,4 @@
 ### 공부 일지
 
 - 21/01/22: [OpenGL, X11, XPM, 엔디언](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-22.md)
+- 21/01/23: [x86, 마이크로프로세서, dylib, 동적라이브러리와 정적라이브러리, 프레임워크, 코코아 프레임워크, Appkit](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-23.md)
