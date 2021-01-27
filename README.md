@@ -12,3 +12,4 @@
 - [TIL02]01/23: [x86, 마이크로프로세서, dylib, 동적라이브러리와 정적라이브러리, 프레임워크, 코코아 프레임워크, Appkit](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-23.md)
 - [TIL03]01/24: [파스칼 삼각형](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-24.md)
 - [TIL04]01/25: [exit 함수](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-25.md)
+- [TIL05]01/27: [해상도](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-27.md)
