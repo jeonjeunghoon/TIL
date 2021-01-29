@@ -1,7 +1,7 @@
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
 <br>
-정확하지 않은 정보가 발견되거나 추가할 내용이 있을 때. 피드백 주시면 감사하겠습니다.  
+정확하지 않은 정보가 발견되거나 추가할 내용이 있을 때, 피드백 주시면 감사하겠습니다.  
 
 #### 사용법
     Command+f 혹은 Ctrl+f 를 눌러 찾는 키워드를 입력하세요.
@@ -24,3 +24,4 @@
 - [TIL05]01/26: [MiniLibX - xpm파일을 로딩해 화면에 출력해보기](https://velog.io/@jeunghoon/xpm-%ED%8C%8C%EC%9D%BC%EC%9D%84-%ED%99%94%EB%A9%B4%EC%97%90-%EC%B6%9C%EB%A0%A5%ED%95%98%EC%9E%90)
 - [TIL06]01/27: [MiniLibX - 픽셀 이미지를 생성해보기](https://velog.io/@jeunghoon/MiniLibX-%ED%94%BD%EC%85%80-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%B4%EB%B3%B4%EC%9E%90), [MiniLibX 로딩된 이미지를 수정해보기](https://velog.io/@jeunghoon/MiniLibX-%EB%A1%9C%EB%94%A9%EB%90%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [TIL07]01/28: [DDA, Bresenham Algorithm](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-28.md)
+- [TIL08]01/29: [MiniLibX - 2D맵 출력하기](https://velog.io/@jeunghoon/MiniLibX-2D맵-출력하기)
