@@ -16,6 +16,7 @@
 - [TIL04]01/25: [exit 함수](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-25.md)
 - [TIL06]01/27: [해상도](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-27.md)
 - [TIL09]01/31: [운영체제, Unix, Linux, GNU](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-31.md)
+- [TIL10]02/01: [GCC 컴파일러](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-01.md)
 
 #### Cub3D
 
