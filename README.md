@@ -1,3 +1,5 @@
+# TIL+11  
+
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
 <br>
@@ -17,6 +19,10 @@
 - [TIL06]01/27: [해상도](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-27.md)
 - [TIL09]01/31: [운영체제, Unix, Linux, GNU](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-31.md)
 - [TIL10]02/01: [GCC 컴파일러](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-01.md)
+
+#### 알고리즘
+
+- [TIL11]02/03: [백준1011](https://velog.io/@jeunghoon/백준-1011-Fly-me-to-the-Alpha-Centauri)
 
 #### Cub3D
 
