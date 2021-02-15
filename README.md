@@ -1,4 +1,4 @@
-# TIL+13
+# TIL+14
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -22,6 +22,7 @@
 - [TIL10]02/01: [GCC 컴파일러](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-01.md)
 - [TIL12]02/04: [IEEE754, Machine epsilon, Cub3D](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-04.md)
 - [TIL13]02/07: [Cub3D 플레이어 구현, 포인터 바이트 크기](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-07.md)
+- [TIL14]02/15: [Cub3D 벽 구현 성공](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-15.md)
 
 #### Blog
 
