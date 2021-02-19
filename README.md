@@ -1,4 +1,4 @@
-# TIL+16
+# TIL+17
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -24,7 +24,8 @@
 - [TIL13]02/07: [Cub3D 플레이어 구현, 포인터 바이트 크기](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-07.md)
 - [TIL14]02/15: [Cub3D 벽 구현 성공](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-15.md)
 - [TIL15]02/16: [Cub3D 플레이어 이동 구현](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-16.md)
-- [TIL16]02/17: [Cub3D 배열 범위 관련 이슈 수정, Cub3D 코드 정리하기](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-17.md) 
+- [TIL16]02/17: [Cub3D 배열 범위 관련 이슈 수정, Cub3D 코드 정리하기](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-17.md)
+- [TIL17]02/19: [Cub3D 벽의 방향 구분 - 진행 중](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-19.md)
 
 #### Blog
 
