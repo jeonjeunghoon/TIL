@@ -1,4 +1,4 @@
-# TIL+20
+# TIL+22
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -39,7 +39,9 @@
 - [TIL16]02/17: [Cub3D 배열 범위 관련 이슈 수정, Cub3D 코드 정리하기](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-17.md)
 - [TIL17]02/19: [Cub3D 벽의 방향 구분 - 진행 중](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-19.md)
 - [TIL18]02/20: [Cub3D 벽의 방향 구분 - 완성](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-20.md)
+- [TIL22]02/26: [Cub3D DDA 알고리즘 수정](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-26.md)
 
 #### 알고리즘
 
 - [TIL11]02/03: [백준1011](https://velog.io/@jeunghoon/백준-1011-Fly-me-to-the-Alpha-Centauri)
+- [TIL22]02/26: [에라토스테네스의 체](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-26.md)
