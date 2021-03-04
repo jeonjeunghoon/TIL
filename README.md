@@ -1,4 +1,4 @@
-# TIL+23
+# TIL+24
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -41,6 +41,7 @@
 - [TIL18]02/20: [Cub3D - 벽의 방향 구분 - 완성](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-20.md)
 - [TIL22]02/26: [Cub3D - DDA 알고리즘 수정](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-26.md)
 - [TIL23]03/01: [Cub3D - 텍스처 구현](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-01.md)
+- [TIL24]03/04: [Cub3D - 텍스처 오류 수정](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-04.md)
 
 #### 알고리즘
 
