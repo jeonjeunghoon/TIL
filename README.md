@@ -1,4 +1,4 @@
-# TIL+24
+# TIL+25
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -48,3 +48,4 @@
 - [TIL03]01/24: [파스칼 삼각형](https://github.com/jeonjeunghoon/TIL/blob/master/21-01-24.md)
 - [TIL11]02/03: [백준 - 1011](https://velog.io/@jeunghoon/백준-1011-Fly-me-to-the-Alpha-Centauri)
 - [TIL22]02/26: [에라토스테네스의 체](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-26.md)
+- [TIL25]03/05: [퀵소트](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-05.md)
