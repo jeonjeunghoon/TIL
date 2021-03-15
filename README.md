@@ -1,4 +1,4 @@
-# TIL+25
+# TIL+26
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -23,6 +23,7 @@
 - [TIL19]02/21: [Make](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-21.md)
 - [TIL21]02/25: [foobar의 어원을 찾아서, Makefile](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-25.md)
 - [TIL23]03/01: [C - getcwd, mkdir](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-01.md)
+- [TIL26]03/15: [C - open, perror](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-15.md)
 
 #### 42서울
 
@@ -42,6 +43,7 @@
 - [TIL22]02/26: [Cub3D - DDA 알고리즘 수정](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-26.md)
 - [TIL23]03/01: [Cub3D - 텍스처 구현](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-01.md)
 - [TIL24]03/04: [Cub3D - 텍스처 오류 수정](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-04.md)
+- [TIL26]03/15: [Cub3D - 스프라이트 구현](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-15.md)
 
 #### 알고리즘
 
