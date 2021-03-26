@@ -1,4 +1,4 @@
-# TIL+26
+# TIL+27
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -24,6 +24,7 @@
 - [TIL21]02/25: [foobar의 어원을 찾아서, Makefile](https://github.com/jeonjeunghoon/TIL/blob/master/21-02-25.md)
 - [TIL23]03/01: [C - getcwd, mkdir](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-01.md)
 - [TIL26]03/15: [C - open, perror](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-15.md)
+- [TIL27]03/26: [bitmap file](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-26.md)
 
 #### 42서울
 
