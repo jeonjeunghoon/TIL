@@ -45,7 +45,7 @@
 - [TIL23]03/01: [Cub3D - 텍스처 구현](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-01.md)
 - [TIL24]03/04: [Cub3D - 텍스처 오류 수정](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-04.md)
 - [TIL26]03/15: [Cub3D - 스프라이트 구현](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-15.md)
-- [TIL28]03/28: [Cub3D - 비트맵 파일 생성](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-27.md)
+- [TIL28]03/27: [Cub3D - 비트맵 파일 생성](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-27.md)
 
 #### 알고리즘
 
