@@ -1,4 +1,4 @@
-# TIL+30
+# TIL+31
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -48,6 +48,7 @@
 - [TIL28]03/27: [Cub3D - 비트맵 파일 생성](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-27.md)
 - [TIL29]03/28: [Cub3D - 맵파싱 1](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-28.md)
 - [TIL30]03/30: [Cub3D - 맵파싱 2](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-30.md)
+- [TIL31]03/31: [Cub3D - 맵파싱 3](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-31.md)
 
 #### 알고리즘
 
