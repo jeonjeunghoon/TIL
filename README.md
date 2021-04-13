@@ -1,4 +1,4 @@
-# TIL+31
+# TIL+32
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -25,6 +25,7 @@
 - [TIL23]03/01: [C - getcwd, mkdir](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-01.md)
 - [TIL26]03/15: [C - open, perror](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-15.md)
 - [TIL27]03/26: [bitmap file](https://github.com/jeonjeunghoon/TIL/blob/master/21-03-26.md)
+- [TIL32]04/13: [Git](https://github.com/jeonjeunghoon/TIL/blob/master/21-04-13.md)
 
 #### 42서울
 
