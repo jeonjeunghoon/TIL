@@ -1,4 +1,4 @@
-# TIL+34
+# TIL+35
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -28,6 +28,7 @@
 - [TIL32]04/13: [Git](https://github.com/jeonjeunghoon/TIL/blob/master/21-04-13.md)
 - [TIL33]04/14: [Node.js, npm](https://github.com/jeonjeunghoon/TIL/blob/master/21-04-14.md)
 - [TIL34]04/15: [react navigation](https://github.com/jeonjeunghoon/TIL/blob/master/21-04-15.md)
+- [TIL35]04/18: [Splash Screen](https://github.com/jeonjeunghoon/TIL/blob/master/21-04-18.md)
 
 #### 42서울
 
