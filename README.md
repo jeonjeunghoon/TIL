@@ -1,4 +1,4 @@
-# TIL+39
+# TIL+40
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -37,6 +37,7 @@
 - [TIL38]05/03: [ES6 - var, let, const 차이점 / 호이스팅(Hoisting)](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-03.md)
 - [TIL39]05/04: [ES6 - String Literal, for of, Rest Operator, Spread Operator, Arrow Function, Class](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-04.md)
 - [TIL39]05/04: [React - Hello World!](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-04.md)
+- [TIL40]05/06: [React - state / props](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-06.md)
 
 #### 42서울
 
