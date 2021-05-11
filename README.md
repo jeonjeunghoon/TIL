@@ -1,4 +1,4 @@
-# TIL+41
+# TIL+42
 
 ## 소개
 **공부한 내용을 기록하는 저장소입니다.**  
@@ -39,6 +39,7 @@
 - [TIL39]05/04: [React - Hello World!](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-04.md)
 - [TIL40]05/06: [React - state / props](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-06.md)
 - [TIL41]05/09: [ReactNative - StyleSheet 적용하기](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-09.md)
+- [TIL42]05/11: [ReactNative - vector icons 적용하기](https://github.com/jeonjeunghoon/TIL/blob/master/21-05-11.md)
 
 #### 42서울
 
